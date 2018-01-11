@@ -1,15 +1,43 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Registered Listing</title>
+    <link rel="stylesheet" type="text/css" href="css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+
 </head>
 <body>
-<h1>registered people</h1>
-<table border="1">
+
+<div id="header">
+
+    <div class="container">
+
+        <h1><a href="index.html">Prathamesh</a></h1>
+
+        <div id="main_menu">
+
+            <ul>
+                <li class="first_list"><a href="index.html" class="main_menu_first">home</a></li>
+                <li class="first_list"><a href="listing" class="main_menu_first">Listing</a></li>
+                <li class="first_list"><a href="contact.html" class="main_menu_first main_current">contact us</a></li>
+            </ul>
+        </div> <!-- END #main_menu -->
+
+    </div> <!-- END .container -->
+
+</div>
+<div id="main_content">
+
+    <div id="contact_area">
+
+        <div class="container">
+
+            <h2 id="contact">Registered People</h2>
+
+            <div id="contact_info">
+
+<table border="1" class="blueTable">
     <thead>
         <th>First Name</th>
         <th>Last name</th>
@@ -25,5 +53,12 @@
     </tr>
 @endforeach
 </table>
+            </div> <!-- END #contact_info -->
+
+        </div> <!-- END .container -->
+
+    </div> <!-- END #contact_area -->
+
+</div>
 </body>
 </html>
