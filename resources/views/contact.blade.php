@@ -22,7 +22,7 @@
 
     <div class="container">
 
-        <h1><a href="index.html">Prathamesh</a></h1>
+        <h1><a href="/lara1/public/">Prathamesh</a></h1>
 
         <div id="main_menu">
 
@@ -75,5 +75,10 @@
                             </ol>
                         </fieldset>
                     </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 </body>
 </html>

@@ -13,7 +13,7 @@
 
     <div class="container">
 
-        w<h1><a href="index.html">Prathamesh</a></h1>
+        <h1><a href="/lara1/public/">Prathamesh</a></h1>
 
         <div id="main_menu">
 
@@ -165,13 +165,7 @@
 
     </div> <!-- END #bottom_content -->
 
-    <div id="download">
 
-        <p>This is a clean and modern, four column website PSD template. You can code it into a Wordpress website, HTML5 responsive website for your personal
-            or client works. So ahead and download this wonderful PSD template!</p>
-        <a href="#">DOWNLOAD PSD</a>
-
-    </div> <!-- END #download -->
 
 </div> <!-- END #main_content -->
 
@@ -187,24 +181,13 @@
 
         </div> <!-- END #footer_about -->
 
-        <div id="footer_explore" class="footer_info">
-
-            <h4>explore</h4>
-            <ul>
-                <li><a href="index.html">home</a></li>
-                <li><a href="#">about us</a></li>
-                <li><a href="#">services</a></li>
-                <li><a href="portfolio.html">portfolio</a></li>
-                <li><a href="#">blog</a></li>
-            </ul>
-
-        </div> <!-- END #footer_about -->
 
 
 
 
 
-        <a href="index.html" id="footer_logo">BisLite</a>
+
+        <a href="/lara1/public/" id="footer_logo">Prathamesh</a>
 
     </div> <!-- END .container -->
 
