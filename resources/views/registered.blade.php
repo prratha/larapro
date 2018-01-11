@@ -18,9 +18,9 @@
         <div id="main_menu">
 
             <ul>
-                <li class="first_list"><a href="index.html" class="main_menu_first">home</a></li>
-                <li class="first_list"><a href="listing" class="main_menu_first">Listing</a></li>
-                <li class="first_list"><a href="contact.html" class="main_menu_first main_current">contact us</a></li>
+                <li class="first_list"><a href="/lara1/public/" class="main_menu_first">home</a></li>
+                <li class="first_list"><a href="/lara1/public/listing" class="main_menu_first main_current">Listing</a></li>
+                <li class="first_list"><a href="/lara1/public/contact" class="main_menu_first">contact us</a></li>
             </ul>
         </div> <!-- END #main_menu -->
 
