@@ -53,7 +53,8 @@
                         <br />
                         For feedback or questions, please email us at: <a href="mailto:prrrathamesh@gmail.com" class="bold_text blue_text">prrrathamesh@gmail.com</a></p>
 
-                    <form action="#" method="post" id="contact_form">
+                    <form action="store" method="post" id="contact_form">
+                        {{ csrf_field() }}
                         <fieldset>
                             <ol>
                                 <li>
@@ -66,7 +67,7 @@
                                     <label for="email">Email Address</label><input type="text" name="email" value="" size="77" maxlength="" id="email" />
                                 </li>
                                 <li>
-                                    <label for="no">Mobile number</label><input type="text" name="no" value="" size="77" maxlength="10" id="no" />
+                                    <label for="number">Mobile number</label><input type="text" name="number" value="" size="77" maxlength="10" id="number" />
                                 </li>
                                 <li>
                                     <input type="submit" value="SUBMIT" size="" maxlength="" />
